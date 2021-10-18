@@ -1,0 +1,9 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "$fn": "50",
+            "display": "Assembled"
+        }
+    },
+    "fileFormatVersion": "1"
+}
